@@ -2,7 +2,7 @@ class Sum {
     public int getSum(int a, int b) {
         System.out.println("기능을 추가한다.");
         System.out.println("기능을 또 추가한다.");
-        System.out.println("기능을 또 추가한다.");
+        System.out.println("새로운 기능");
         return a + b;
     }
 }
