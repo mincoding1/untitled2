@@ -1,5 +1,6 @@
 class Sum {
     public int getSum(int a, int b) {
+        System.out.println("기능을 추가한다.");
         return a + b;
     }
 }
